@@ -26,8 +26,9 @@ format : `Day nb` + `date` + `:`+ `action`, liste des sujets vu le jour
 
 ```diff  
 Day 1  
-``` 2020/01/02 : Discovering the interface before working on SQL. Working on my GitHub ReadMe of the Nanodegree  
-`Day 2` 2020/01/02 : 
+```  
+020/01/02 : Discovering the interface before working on SQL. Working on my GitHub ReadMe of the Nanodegree  
+Day 2 2020/01/02 : 
 
 
 
