@@ -24,7 +24,7 @@ Note du cours et log de travail du cours d’Udacity [Become a data Engineer](ht
 
 format : `Day nb` + `date` + `:`+ `action`, liste des sujets vu le jour
 
-```diff  
+```tex  
 Day 1  
 ```  
 020/01/02 : Discovering the interface before working on SQL. Working on my GitHub ReadMe of the Nanodegree  
