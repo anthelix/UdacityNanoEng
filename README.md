@@ -23,10 +23,10 @@ Note du cours et log de travail du cours d’Udacity [Become a data Engineer](ht
 ## Log de travail
 
 format : `Day nb` + date
-* liste des sujets vu le jour
-*
+- liste des sujets vu le jour
 
-* `Day 1` 2020/01/02  Discovering the interface before working on SQL. Working on my GitHub ReadMe of the Nanodegree
+- `Day 1` 2020/01/02  Discovering the interface before working on SQL. Working on my GitHub ReadMe of the Nanodegree  
+-
 
 
 
