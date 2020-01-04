@@ -34,9 +34,9 @@ Note du cours et log de travail du cours d’Udacity [Become a data Engineer](ht
 
 format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, liste des sujets vu le jour
 
-`Day 1` 2020/01/02 : Discovering the interface before working on SQL(all down until, chp1, ep40/49) Working on my GitHub ReadMe of the Nanodegree. Encouraging @IbrahimaK and @AyaC
+`Day 1` 2020/01/02 #30DaysOfUdacity #DEND : Discovering the interface before working on SQL(all down until, chp1, ep40/49) Working on my GitHub ReadMe of the Nanodegree. Encouraging @IbrahimaK and @AyaC
 
 `Day 2` 2020/01/03 #30DaysOfUdacity #DEND : working on Sql, finishing chap1 and all down until chp2, ep12/21. I'm reading 'Le big Data' by Pierre Delort. Encouraging @Jose LuisI @NikitaG
 
-`Day 3` 2020/01/04 #30DaysOfUdacity #DEND :
+`Day 3` 2020/01/04 #30DaysOfUdacity #SQL #DEND : working on Sql, finishing chap2. Encouraging @Md. RanaM @IoannisK 
 	
