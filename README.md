@@ -40,3 +40,5 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 
 `Day 3` 2020/01/04 #30DaysOfUdacity #SQL #DEND : working on Sql, finishing chap2. Encouraging @Md. RanaM @IoannisK 
 	
+`Day 4` 2020/01/05 #30DaysOfUdacity #SQL #DEND : I'am sick, my brain is marmalade... I have reread my notes from chap1 and chap2 of sql and begin the chap3. All down until ep24/33. Watching some videos introducing the Nanodegree. Encouraging 
+@oluwatosin
