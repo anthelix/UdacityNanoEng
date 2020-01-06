@@ -15,8 +15,11 @@ Note du cours et log de travail du cours d’Udacity [Become a data Engineer](ht
 	* SQL
 
 ### Installation (cf 20191206_installSolus)
-	* sudo eopkg install postgresql
-	*
+* sudo eopkg install postgresql
+* sudo pip3 install –upgrade pip
+* sudo pip3 install SQLAlchemy (The Python SQL Toolkit and Object Relational Mapper)
+* sudo pip3 install psycopg2 && psycopg2-binary (PostgreSQL database adapter for the Python programming langage)
+* sudo eopkg install python-devel
 
 ### Ressources 
 * google drive
@@ -30,6 +33,8 @@ Note du cours et log de travail du cours d’Udacity [Become a data Engineer](ht
 5. Data Pipelines
 6. Data Lake
 
+
+
 ## Log de travail
 
 format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, liste des sujets vu le jour
@@ -42,3 +47,5 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 	
 `Day 4` 2020/01/05 #30DaysOfUdacity #SQL #DEND : I'am sick, my brain is marmalade... I have reread my notes from chap1 and chap2 of sql and begin the chap3. All down until ep24/33. Watching some videos introducing the Nanodegree. Encouraging 
 @oluwatosin
+
+`Day 5` 2020/01/06 #30DaysOfUdacity #SQL #DEND : I began Data Modeling with Postgres, watched video and try to install psycopg... Encouraging @Bianca DianaT  @RaduE
