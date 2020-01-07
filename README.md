@@ -15,11 +15,15 @@ Note du cours et log de travail du cours d’Udacity [Become a data Engineer](ht
 	* SQL
 
 ### Installation (cf 20191206_installSolus)
-* sudo eopkg install postgresql
-* sudo pip3 install –upgrade pip
-* sudo pip3 install SQLAlchemy (The Python SQL Toolkit and Object Relational Mapper)
-* sudo pip3 install psycopg2 && psycopg2-binary (PostgreSQL database adapter for the Python programming langage)
-* sudo eopkg install python-devel
+* sudo eopkg install postgresql && postgresql-devel && psycopg2
+* pip3 install –upgrade pip
+* pip3 install SQLAlchemy (The Python SQL Toolkit and Object Relational Mapper)
+* sudo eopkg install python3-devel 
+* conda create --name psyco python=3.6 anaconda
+* conda activate psyco
+* conda install -c anaconda psycopg2=2.7.4
+* conda update -n base -c defaults conda
+* conda desactivate
 
 ### Ressources 
 * google drive
@@ -49,3 +53,5 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 @oluwatosin
 
 `Day 5` 2020/01/06 #30DaysOfUdacity #SQL #DEND : I began Data Modeling with Postgres, watched video and try to install psycopg... Encouraging @Bianca DianaT  @RaduE
+
+`Day 6` 2020/01/07 #30DaysOfUdacity #SQL #DEND : It was Shell day and no Sql ...all afternoon I tried again and again to get Psycopg2 working. Finally, I found it! Hooray for Conda Activate and Conda Install. Watching video and tuto to understand "Lesson 1 Demo 1: Creating a Table with PostgreSQL". Encouraging
