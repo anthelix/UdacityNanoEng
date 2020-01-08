@@ -34,6 +34,9 @@ Note du cours et log de travail du cours d’Udacity [Become a data Engineer](ht
 	* ![PostgresSQL Manuel in french](https://docs.postgresql.fr/12/pg12.pdf)
 	* ![Panoply blog](https://blog.panoply.io/connecting-jupyter-notebook-with-postgresql-for-python-data-analysis)
 	* ![PYnative tuto](https://pynative.com/python-postgresql-tutorial/)
+	* ![HOWTO PostgreSQL](http://www.gcolpart.com/howto/postgresql.php4)  
+	* ![Postgres-cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
+	* ![Command line psql](https://www.a2hosting.com/kb/developer-corner/postgresql/connect-to-postgresql-from-the-command-line)
 2. Data Modeling with Apache Cassandra
 3. Engineering Capstone Project
 4. Data warehouse
@@ -59,4 +62,4 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 
 `Day 6` 2020/01/07 #30DaysOfUdacity #SQL #DEND : It was Shell day and no Sql ...all afternoon I tried again and again to get Psycopg2 working. Finally, I found it! Hooray for Conda Activate and Conda Install. Watching video and tuto to understand "Lesson 1 Demo 1: Creating a Table with PostgreSQL". Encouraging
 
-`Day 7` 2020/01/0* #30DaysOfUdacity #SQL #DEND : I do the first exercice, read about Postgre and server/client, begin a cheatsheet about all this stuff for my .git and my own locally work
+`Day 7` 2020/01/08 #30DaysOfUdacity #SQL #DEND : I do the first exercice, read about Postgre and server/client, begin a cheatsheet about all this stuff for my .git and my own locally work. Encouraging @AaronC @AlwaledH 
