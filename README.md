@@ -92,3 +92,5 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 `Day 6` 2020/01/07 #30DaysOfUdacity #SQL #DEND : It was Shell day and no Sql ...all afternoon I tried again and again to get Psycopg2 working. Finally, I found it! Hooray for Conda Activate and Conda Install. Watching video and tuto to understand "Lesson 1 Demo 1: Creating a Table with PostgreSQL". Encouraging
 
 `Day 7` 2020/01/08 #30DaysOfUdacity #SQL #DEND : Lesson 1, chap 13. I do the first exercice, read about Postgre and server/client, begin a cheatsheet about all this stuff for my .git and my own locally work. I have some difficults to work locally. I change the parameters in `try: conn = psycopg2.connect("host=127.0.0.1 dbname=studentdb user=student password=student")`. I do `dbname=postgres`, default base since the postgres installation and `user=mylogin`. Encouraging @AaronC @AlwaledH 
+
+`Day 8` 2020/01/09 #30DaysOfUdacity #SQL #DEND : End of Data Modeling Lesson One!! I also read some documentation about Cassandra. My Anaconda environments for Postgres and Cassandra are ready and configured. I begin a Cheat Sheet for cassandra.  Encouraging @ValenS @AnaC 
