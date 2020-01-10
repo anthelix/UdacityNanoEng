@@ -17,8 +17,6 @@ Note du cours et log de travail du cours d’Udacity [Become a data Engineer](ht
 ### Installation (cf 20191206_installSolus)
 * sudo eopkg install postgresql && postgresql-devel && psycopg2
 * pip3 install –upgrade pip
-
-
 * pip3 install SQLAlchemy (The Python SQL Toolkit and Object Relational Mapper)
 * sudo eopkg install python3-devel 
 * conda create --name psyco python=3.6 anaconda
@@ -26,8 +24,6 @@ Note du cours et log de travail du cours d’Udacity [Become a data Engineer](ht
 * conda install -c anaconda psycopg2=2.7.4
 * conda update -n base -c defaults conda
 * conda deactivate
-
-
 * java -version
 * https://www-us.apache.org/dist/cassandra/3.11.5/apache-cassandra-3.11.5-bin.tar.gz
 * cd ~/Telechargement
@@ -60,6 +56,7 @@ _cassandra is running?_
 	* ![HOWTO PostgreSQL](http://www.gcolpart.com/howto/postgresql.php4)  
 	* ![Postgres-cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
 	* ![Command line psql](https://www.a2hosting.com/kb/developer-corner/postgresql/connect-to-postgresql-from-the-command-line)
+	* ![Wikipedia Link](https://en.wikipedia.org/wiki/Codd%27s_12_rules)
 
 2. Data Modeling with Apache Cassandra
 	* https://mbaron.developpez.com/tutoriels/nosql/cassandra/installation-outils-administration/
@@ -69,6 +66,7 @@ _cassandra is running?_
 
 3. Engineering Capstone Project
 4. Data warehouse
+	* ![Aws credits](https://udacity.zendesk.com/hc/en-us/articles/360004885031?input_string=aws+credits)
 5. Data Pipelines
 6. Data Lake
 
@@ -94,3 +92,5 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 `Day 7` 2020/01/08 #30DaysOfUdacity #SQL #DEND : Lesson 1, chap 13. I do the first exercice, read about Postgre and server/client, begin a cheatsheet about all this stuff for my .git and my own locally work. I have some difficults to work locally. I change the parameters in `try: conn = psycopg2.connect("host=127.0.0.1 dbname=studentdb user=student password=student")`. I do `dbname=postgres`, default base since the postgres installation and `user=mylogin`. Encouraging @AaronC @AlwaledH 
 
 `Day 8` 2020/01/09 #30DaysOfUdacity #SQL #DEND : End of Data Modeling Lesson One!! I also read some documentation about Cassandra. My Anaconda environments for Postgres and Cassandra are ready and configured. I begin a Cheat Sheet for cassandra.  Encouraging @ValenS @AnaC 
+
+`Day 9` 2020/01/10 #30DaysOfUdacity #SQL #DEND : small day, I watched some videos. Encouraging
