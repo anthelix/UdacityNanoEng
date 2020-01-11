@@ -94,3 +94,5 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 `Day 8` 2020/01/09 #30DaysOfUdacity #SQL #DEND : End of Data Modeling Lesson One!! I also read some documentation about Cassandra. My Anaconda environments for Postgres and Cassandra are ready and configured. I begin a Cheat Sheet for cassandra.  Encouraging @ValenS @AnaC 
 
 `Day 9` 2020/01/10 #30DaysOfUdacity #SQL #DEND : small day, I watched some videos. Encouraging
+
+`Day 10` 2020/01/11 #30DaysOfUdacity #SQL #DEND : Lesson2 of Relational Data Models. Denormalized Tables. I need to practice!! @BryantW @AntónioB  @LauraT 
