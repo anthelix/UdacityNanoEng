@@ -96,3 +96,5 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 `Day 9` 2020/01/10 #30DaysOfUdacity #SQL #DEND : small day, I watched some videos. Encouraging
 
 `Day 10` 2020/01/11 #30DaysOfUdacity #SQL #DEND : Lesson2 of Relational Data Models. Denormalized Tables. I need to practice!! @BryantW @AntónioB  @LauraT 
+
+`Day 11` 2020/01/12 #30DaysOfUdacity #SQL #DEND : End of the lesson2 of Data Modeling. I have read the instructions for Project 1. I need knowledge  about Json 🤨. Tomorow   I will make my schedule for the few days of work on the Project 1. 🤖 Encouraging @BryantW @AntónioB @Jacinto @LauraT
