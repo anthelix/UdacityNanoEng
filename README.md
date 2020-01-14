@@ -41,7 +41,11 @@ _modifier le path dans .zshrc_
 * export PATH=$PATH:$CASSANDRA_HOME/bin:$CASSANDRA_HOME/sbin
 _cassandra is running?_
 * /opt/cassandra/bin/nodetool status
-
+_module in postgre "magic sql" for the _test.ipyn_ Project1
+* conda activate psyco
+* pip install sqlalchemy
+* pip install update sqlalchemy
+* pip install ipython-sql
 
 ### Ressources 
 * this Readme
@@ -98,3 +102,6 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 `Day 10` 2020/01/11 #30DaysOfUdacity #SQL #DEND : Lesson2 of Relational Data Models. Denormalized Tables. I need to practice!! @BryantW @AntónioB  @LauraT 
 
 `Day 11` 2020/01/12 #30DaysOfUdacity #SQL #DEND : End of the lesson2 of Data Modeling. I have read the instructions for Project 1. I need knowledge  about Json 🤨. Tomorow   I will make my schedule for the few days of work on the Project 1. 🤖 Encouraging @BryantW @AntónioB @Jacinto @LauraT
+
+`Day 12` 2020/01/13 #30DaysOfUdacity #SQL #DEND : I read the instructions for Project 1 and work about it. Encouraging @BryantW @AntónioB @Jacinto @LauraT
+

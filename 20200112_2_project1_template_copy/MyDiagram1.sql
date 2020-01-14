@@ -1,37 +1,37 @@
 CREATE TABLE "songplays" (
-  "songplay_id" integer,
+  "songplay_id" text,
   "start_time" date,
-  "user_id" integer,
-  "level" integer,
-  "song_id" integer,
-  "artist_id" integer,
+  "user_id" text,
+  "level" text,
+  "song_id" text,
+  "artist_id" text,
   "session_id" integer,
   "location" text,
   "user_agent" text
 );
 
 CREATE TABLE "users" (
-  "user_id" integer PRIMARY KEY,
+  "user_id" text PRIMARY KEY,
   "first_name" text,
   "last_name" text,
   "gender" text,
-  "level" integer
+  "level" text
 );
 
 CREATE TABLE "songs" (
-  "song_id" integer PRIMARY KEY,
+  "song_id" text PRIMARY KEY,
   "title" text,
-  "artist_id" integer,
+  "artist_id" text,
   "year" integer,
-  "duration" tim
+  "duration" numeric
 );
 
 CREATE TABLE "artists" (
-  "artist_id" integer PRIMARY KEY,
-  "nane" text,
+  "artist_id" text PRIMARY KEY,
+  "name" text,
   "location" text,
-  "latitude" integer,
-  "longitude" integer
+  "latitude" numeric,
+  "longitude" numeric
 );
 
 CREATE TABLE "time" (
