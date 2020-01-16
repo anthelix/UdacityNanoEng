@@ -35,13 +35,13 @@ Note du cours et log de travail du cours d’Udacity [Become a data Engineer](ht
 * sudo mkdir /var/lib/cassandra/commitlog
 * sudo mkdir /var/lib/cassandra/data
 * sudo mkdir /var/log/cassandra/
-* sudo chown -R <USER> /var/lib/cassandra/ /var/log/cassandra/
+* sudo chown -R <USER> /var/lib/cassandra/ /var/log/cassandra/  
 _modifier le path dans .zshrc_
 * export CASSANDRA_HOME=/opt/cassandra
 * export PATH=$PATH:$CASSANDRA_HOME/bin:$CASSANDRA_HOME/sbin
 _cassandra is running?_
-* /opt/cassandra/bin/nodetool status
-_module in postgre "magic sql" for the _test.ipyn_ Project1
+* /opt/cassandra/bin/nodetool status  
+_module in postgre "magic sql" for the **test.ipyn** Project1_
 * conda activate psyco
 * pip install sqlalchemy
 * pip install update sqlalchemy
@@ -105,3 +105,8 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 
 `Day 12` 2020/01/13 #30DaysOfUdacity #SQL #DEND : I read the instructions for Project 1 and work about it. Encouraging @BryantW @AntónioB @Jacinto @LauraT
 
+`Day 13` 2020/01/14 #30DaysOfUdacity #SQL #DEND : I've been working on project one. It's not complicated but a lot of syntax and spelling mistakes slow me down. I've been reading a bit about Docker too and reconfiguring my anaconda to work with this project. My heart goes out to Encouraging @BryantW @AntónioB @Jacinto @LauraT
+
+`Day 14` 2020/01/15 #30DaysOfUdacity #SQL #DEND : I've been working on project one. End of the day... I finished the first part, just some troubles with the songplay_table. I will fix that tomorrow. Encouraging @BryantW @AntónioB @Jacinto @LauraT
+
+`Day 15` 2020/01/16 #30DaysOfUdacity #SQL #DEND :I couldn't find the source of the problem this morning, so I decided to take a step back and read the self-help forum. There are a lot of things and help for my solution!! I'm very happy. Today I'm thinking about it and I'm moving forward especially on the Readme. I love the Readme. 
