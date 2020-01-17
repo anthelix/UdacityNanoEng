@@ -1,1 +1,0 @@
-/home/anthelix/Documents/workflow/CheatSheet/myCheatSheetPsyco.md
