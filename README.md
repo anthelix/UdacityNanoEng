@@ -111,5 +111,8 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 
 `Day 15` 2020/01/16 #30DaysOfUdacity #SQL #DEND :I couldn't find the source of the problem this morning, so I decided to take a step back and read the self-help forum. There are a lot of things and help for my solution!! I'm very happy. Today I'm thinking about it and I'm moving forward especially on the Readme. I love the Readme. I play a lot with 'Git' and I usual I lose ^^ and I lean ^^. This time I have pushed and clear all my repo so, to go back to an event that's already pushed on GitHub: to see the number of the good push `git log --oneline --decorate --graph` then chose it (the good one, where you want to go), then`git reset --hard xxxxxxx` then `git clean -f -d` then `git fetch --all` then `git push -u origin +master` ta taaaaa!!! Well, the lesson of the day is to do a push every day (that I do) but also during the day or before playing with Git... 
 
+`Day 16` 2020/01/17 #30DaysOfUdacity #SQL #DEND : The day was well underway... and I came across the hash algorithm. So tomorrow will be Udacitu Day. 🚀💢 Encouraging @LauraT @Bianca DianaT @DanielJ @AntónioB @Jacinto @BryantW
+
 `Day 17` 2020/01/18 #30DaysOfUdacity #SQL #DEND : Still on project 1. I work with python. Tomorrow I hope to finish this project. Encouraging @Vamshi KrishnaP @AntónioB @InnaI
 
+`Day 18` 2020/01/19 #30DaysOfUdacity #SQL #DEND : I've made project 1!! I've done a lot of Python coding on this subject to find matching files! I'll do less Sql and more python next week. 
