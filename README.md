@@ -118,3 +118,5 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 `Day 18` 2020/01/19 #30DaysOfUdacity #SQL #DEND : I've made project 1!! I've done a lot of Python coding on this subject to find matching files! I'll do less Sql and more python next week.  Encouraging 🎉 @Vamshi KrishnaP @Bianca DianaT @AntónioB @Jacinto @BryantW @DanielJ @DavidA ...and, tomorow, that's the end of the subway strikes in Paris(France). I'm so happy!!!🙏🎉🎉
 
 `Day 19` 2020/01/20 #30DaysOfUdacity #SQL #DEND : I continued with Intro to Python, Lesson 7 about Numpy. I'm still working on my sql notes. 
+
+`Day 20` 2020/01/21 #30DaysOfUdacity #SQL #DEND : I finished the Python introduction, lesson 7 on Numpy, and did some exercises to practice. I really liked that lesson. Plenty of encouragement to @Bianca DianaT @LorenzoP @BryantW @Daniel @TarekA @AmyS @Vamshi KrishnaP
