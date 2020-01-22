@@ -39,8 +39,11 @@ Note du cours et log de travail du cours d’Udacity [Become a data Engineer](ht
 _modifier le path dans .zshrc_
 * export CASSANDRA_HOME=/opt/cassandra
 * export PATH=$PATH:$CASSANDRA_HOME/bin:$CASSANDRA_HOME/sbin
+* conda activate cassand
+* cd /opt/cassandra
+* bin/cassandra -f #start cassandra
 _cassandra is running?_
-* /opt/cassandra/bin/nodetool status  
+* /opt/cassandra/bin/nodetool status
 _module in postgre "magic sql" for the **test.ipyn** Project1_
 * conda activate psyco
 * pip install sqlalchemy
@@ -51,6 +54,7 @@ _module in postgre "magic sql" for the **test.ipyn** Project1_
 * this Readme
 * google drive
 * note Sql de [sql for data analysis by Udacity](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+* [data Base avec OPC](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql)
 
 ### Ressources Web
 1. Data Modeling with Postgres
@@ -66,7 +70,11 @@ _module in postgre "magic sql" for the **test.ipyn** Project1_
 	* https://mbaron.developpez.com/tutoriels/nosql/cassandra/installation-outils-administration/
 	* http://cassandra.apache.org/doc/latest/getting_started/configuring.html
 	* https://code.tutsplus.com/fr/articles/getting-started-with-cassandra-using-cql-api-and-cqlsh--cms-28026
-	
+	* http://codefoundries.com/developer/cassandra/cassandra-cheatsheet.html
+	* http://tech.joshegan.com/posts/yr2016/cassandra-cheatsheet
+	* https://stph.scenari-community.org/contribs/nos/Cassandra1/co/langage_CQL.html
+	* https://dzone.com/articles/cassandra-data-modeling-primary-clustering-partiti
+	* [glossaire]https://io.typepad.com/glossary.html
 
 3. Engineering Capstone Project
 4. Data warehouse
