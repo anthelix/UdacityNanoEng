@@ -128,3 +128,5 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 `Day 19` 2020/01/20 #30DaysOfUdacity #SQL #DEND : I continued with Intro to Python, Lesson 7 about Numpy. I'm still working on my sql notes. 
 
 `Day 20` 2020/01/21 #30DaysOfUdacity #SQL #DEND : I finished the Python introduction, lesson 7 on Numpy, and did some exercises to practice. I really liked that lesson. Plenty of encouragement to @Bianca DianaT @LorenzoP @BryantW @Daniel @TarekA @AmyS @Vamshi KrishnaP
+
+`Day 21` 2020/01/22 #30DaysOfUdacity #SQL #DEND :I began NoSQL Data Models in Data Modeling, and I end the day by the first exercice. I read a lot documentation about Cassandra, NoSql database to understand ... Cassandra. Encouraging
