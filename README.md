@@ -75,6 +75,8 @@ _module in postgre "magic sql" for the **test.ipyn** Project1_
 	* https://stph.scenari-community.org/contribs/nos/Cassandra1/co/langage_CQL.html
 	* https://dzone.com/articles/cassandra-data-modeling-primary-clustering-partiti
 	* [glossaire]https://io.typepad.com/glossary.html
+	* [Primary key](https://docs.datastax.com/en/archived/cql/3.3/cql/cql_using/useSimplePrimaryKeyConcept.html#useSimplePrimaryKeyConcept)
+	* [francais](https://ippon.developpez.com/tutoriels/nosql/cassandra/modelisation-cassandra/)
 
 3. Engineering Capstone Project
 4. Data warehouse
