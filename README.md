@@ -80,6 +80,9 @@ _module in postgre "magic sql" for the **test.ipyn** Project1_
 	* [Explication Cassandra](https://www.infoq.com/fr/articles/modele-stockage-physique-cassandra/)
 	* [clustering](https://docs.datastax.com/en/archived/cql/3.3/cql/cql_using/useCompoundPrimaryKeyConcept.html)
 	*  [resume PK CK Clustering K](https://stackoverflow.com/questions/24949676/difference-between-partition-key-composite-key-and-clustering-key-in-cassandra)
+	*  [Cassandra modeling Frenc](https://dadospdf.com/download/nosql-sgbd-cassandra-_5ae6151cb7d7bcf438f9d6f8_pdf)
+	*  [Data Type](https://www.tutorialspoint.com/cassandra/cassandra_cql_datatypes.htm)
+	*  [Data Types](http://cassandra.apache.org/doc/latest/cql/types.html1)
 
 3. Engineering Capstone Project
 4. Data warehouse
@@ -137,3 +140,7 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 `Day 21` 2020/01/22 #30DaysOfUdacity #SQL #DEND :I began NoSQL Data Models in Data Modeling, and I end the day by the first exercice. I read a lot documentation about Cassandra, NoSql database to understand ... Cassandra. Encouraging
 
 `Day 22` 2020/01/23 #30DaysOfUdacity #SQL #DEND :I finished the chapter NoSql Data Model and started project 2 by preparing my working environment and my Readme. 
+
+`Day 23` 2020/01/24 #30DaysOfUdacity #SQL #DEND :I read a lot about datamodelisation, chebotko diagram and uml diagram. I learn a lot... so I forgot to check my 30DaysofUdacity before 00:00 ^^. 
+
+`Day 24` 2020/01/25 #30DaysOfUdacity #SQL #DEND : Small day. I read about clustering and partition key in Cassandra. How do you find them? You'd be amazing to give me some tips or read up on the subject!!! I wish you a wonderful Sunday.
