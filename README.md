@@ -83,6 +83,7 @@ _module in postgre "magic sql" for the **test.ipyn** Project1_
 	*  [Cassandra modeling Frenc](https://dadospdf.com/download/nosql-sgbd-cassandra-_5ae6151cb7d7bcf438f9d6f8_pdf)
 	*  [Data Type](https://www.tutorialspoint.com/cassandra/cassandra_cql_datatypes.htm)
 	*  [Data Types](http://cassandra.apache.org/doc/latest/cql/types.html1)
+	*  [Anti-seche](https://gist.github.com/jeffreyscarpenter/761ddcd1c125dfb194dc02d753d31733)
 
 3. Engineering Capstone Project
 4. Data warehouse
@@ -144,3 +145,5 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 `Day 23` 2020/01/24 #30DaysOfUdacity #SQL #DEND :I read a lot about datamodelisation, chebotko diagram and uml diagram. I learn a lot... so I forgot to check my 30DaysofUdacity before 00:00 ^^. 
 
 `Day 24` 2020/01/25 #30DaysOfUdacity #SQL #DEND : Small day. I read about clustering and partition key in Cassandra. How do you find them? You'd be amazing to give me some tips or read up on the subject!!! I wish you a wonderful Sunday.
+
+`Day 25` 2020/01/26 #30DaysOfUdacity #SQL #DEND :An other small day. I'm about to complete project two. Tomorrow, maybe? I still have a few more checks and the readme to finish. 
