@@ -147,3 +147,5 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 `Day 24` 2020/01/25 #30DaysOfUdacity #SQL #DEND : Small day. I read about clustering and partition key in Cassandra. How do you find them? You'd be amazing to give me some tips or read up on the subject!!! I wish you a wonderful Sunday.
 
 `Day 25` 2020/01/26 #30DaysOfUdacity #SQL #DEND :An other small day. I'm about to complete project two. Tomorrow, maybe? I still have a few more checks and the readme to finish. 
+
+`Day 26 2020/01/27` #30DaysOfUdacity #SQL #DEND : That's it, project 2, finish!!! 🚀🚀👍 This chapter on Cassandra is really very interesting. I have to go deeper into the subject and the ERD and UML... The diagrams, I spent a little time on them.
