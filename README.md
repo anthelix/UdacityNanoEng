@@ -149,3 +149,8 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 `Day 25` 2020/01/26 #30DaysOfUdacity #SQL #DEND :An other small day. I'm about to complete project two. Tomorrow, maybe? I still have a few more checks and the readme to finish. 
 
 `Day 26 2020/01/27` #30DaysOfUdacity #SQL #DEND : That's it, project 2, finish!!! 🚀🚀👍 This chapter on Cassandra is really very interesting. I have to go deeper into the subject and the ERD and UML... The diagrams, I spent a little time on them.
+
+`Day 27 2020/01/28` #30DaysOfUdacity #SQL #DEND : That's it, project 2, finish!!! and pass after one review. I learn a lot by this review 🚀🚀👍 So I begin Pandas to rest. I learn a word in english, a cute word. `nitpicky` I like the sound. So i spend my day to use it. I've been reading and listening English for a long time, but I rarely speak or write. Thank you everyone, it's very nice to read and write to you, I'm getting better. Thanks a lot. 
+
+`Day 28 2020/01/29` #30DaysOfUdacity #SQL #DEND : I finsished Python and SQL Aggregations today. I need to practice SQL with Hackerank. I'd like to finish SQL as soon as possible to keep moving forward on nanodegree datae eng.
+
