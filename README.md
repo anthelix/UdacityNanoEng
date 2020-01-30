@@ -97,48 +97,47 @@ _module in postgre "magic sql" for the **test.ipyn** Project1_
 
 format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, liste des sujets vu le jour
 
-`Day 1` 2020/01/02 #30DaysOfUdacity #DEND : Discovering the interface before working on SQL(all down until, chp1, ep40/49) Working on my GitHub ReadMe of the Nanodegree. Encouraging @IbrahimaK and @AyaC
+`Day 1` 2020/01/02 #30DaysOfUdacity #DEND : Discovering the interface before working on SQL(all down until, chp1, ep40/49) Working on my GitHub ReadMe of the Nanodegree. 
 
-`Day 2` 2020/01/03 #30DaysOfUdacity #DEND : working on Sql, finishing chap1 and all down until chp2, ep12/21. I'm reading 'Le big Data' by Pierre Delort. Encouraging @Jose LuisI @NikitaG
+`Day 2` 2020/01/03 #30DaysOfUdacity #DEND : working on Sql, finishing chap1 and all down until chp2, ep12/21. I'm reading 'Le big Data' by Pierre Delort. 
 
 `Day 3` 2020/01/04 #30DaysOfUdacity #SQL #DEND : working on Sql, finishing chap2. Encouraging @Md. RanaM @IoannisK 
 	
-`Day 4` 2020/01/05 #30DaysOfUdacity #SQL #DEND : I'am sick, my brain is marmalade... I have reread my notes from chap1 and chap2 of sql and begin the chap3. All down until ep24/33. Watching some videos introducing the Nanodegree. Encouraging 
-@oluwatosin
+`Day 4` 2020/01/05 #30DaysOfUdacity #SQL #DEND : I'am sick, my brain is marmalade... I have reread my notes from chap1 and chap2 of sql and begin the chap3. All down until ep24/33. Watching some videos introducing the Nanodegree.
 
-`Day 5` 2020/01/06 #30DaysOfUdacity #SQL #DEND : I began Data Modeling with Postgres, watched video and try to install psycopg... Encouraging @Bianca DianaT  @RaduE
+`Day 5` 2020/01/06 #30DaysOfUdacity #SQL #DEND : I began Data Modeling with Postgres, watched video and try to install psycopg... 
 
-`Day 6` 2020/01/07 #30DaysOfUdacity #SQL #DEND : It was Shell day and no Sql ...all afternoon I tried again and again to get Psycopg2 working. Finally, I found it! Hooray for Conda Activate and Conda Install. Watching video and tuto to understand "Lesson 1 Demo 1: Creating a Table with PostgreSQL". Encouraging
+`Day 6` 2020/01/07 #30DaysOfUdacity #SQL #DEND : It was Shell day and no Sql ...all afternoon I tried again and again to get Psycopg2 working. Finally, I found it! Hooray for Conda Activate and Conda Install. Watching video and tuto to understand "Lesson 1 Demo 1: Creating a Table with PostgreSQL".
 
-`Day 7` 2020/01/08 #30DaysOfUdacity #SQL #DEND : Lesson 1, chap 13. I do the first exercice, read about Postgre and server/client, begin a cheatsheet about all this stuff for my .git and my own locally work. I have some difficults to work locally. I change the parameters in `try: conn = psycopg2.connect("host=127.0.0.1 dbname=studentdb user=student password=student")`. I do `dbname=postgres`, default base since the postgres installation and `user=mylogin`. Encouraging @AaronC @AlwaledH 
+`Day 7` 2020/01/08 #30DaysOfUdacity #SQL #DEND : Lesson 1, chap 13. I do the first exercice, read about Postgre and server/client, begin a cheatsheet about all this stuff for my .git and my own locally work. I have some difficults to work locally. I change the parameters in `try: conn = psycopg2.connect("host=127.0.0.1 dbname=studentdb user=student password=student")`. I do `dbname=postgres`, default base since the postgres installation and `user=mylogin`. 
 
-`Day 8` 2020/01/09 #30DaysOfUdacity #SQL #DEND : End of Data Modeling Lesson One!! I also read some documentation about Cassandra. My Anaconda environments for Postgres and Cassandra are ready and configured. I begin a Cheat Sheet for cassandra.  Encouraging @ValenS @AnaC 
+`Day 8` 2020/01/09 #30DaysOfUdacity #SQL #DEND : End of Data Modeling Lesson One!! I also read some documentation about Cassandra. My Anaconda environments for Postgres and Cassandra are ready and configured. I begin a Cheat Sheet for cassandra.  
 
-`Day 9` 2020/01/10 #30DaysOfUdacity #SQL #DEND : small day, I watched some videos. Encouraging
+`Day 9` 2020/01/10 #30DaysOfUdacity #SQL #DEND : small day, I watched some videos.
 
-`Day 10` 2020/01/11 #30DaysOfUdacity #SQL #DEND : Lesson2 of Relational Data Models. Denormalized Tables. I need to practice!! @BryantW @AntónioB  @LauraT 
+`Day 10` 2020/01/11 #30DaysOfUdacity #SQL #DEND : Lesson2 of Relational Data Models. Denormalized Tables. I need to practice!! 
 
-`Day 11` 2020/01/12 #30DaysOfUdacity #SQL #DEND : End of the lesson2 of Data Modeling. I have read the instructions for Project 1. I need knowledge  about Json 🤨. Tomorow   I will make my schedule for the few days of work on the Project 1. 🤖 Encouraging @BryantW @AntónioB @Jacinto @LauraT
+`Day 11` 2020/01/12 #30DaysOfUdacity #SQL #DEND : End of the lesson2 of Data Modeling. I have read the instructions for Project 1. I need knowledge  about Json 🤨. Tomorow   I will make my schedule for the few days of work on the Project 1. 
 
-`Day 12` 2020/01/13 #30DaysOfUdacity #SQL #DEND : I read the instructions for Project 1 and work about it. Encouraging @BryantW @AntónioB @Jacinto @LauraT
+`Day 12` 2020/01/13 #30DaysOfUdacity #SQL #DEND : I read the instructions for Project 1 and work about it.
 
-`Day 13` 2020/01/14 #30DaysOfUdacity #SQL #DEND : I've been working on project one. It's not complicated but a lot of syntax and spelling mistakes slow me down. I've been reading a bit about Docker too and reconfiguring my anaconda to work with this project. My heart goes out to Encouraging @BryantW @AntónioB @Jacinto @LauraT
+`Day 13` 2020/01/14 #30DaysOfUdacity #SQL #DEND : I've been working on project one. It's not complicated but a lot of syntax and spelling mistakes slow me down. I've been reading a bit about Docker too and reconfiguring my anaconda to work with this project. 
 
-`Day 14` 2020/01/15 #30DaysOfUdacity #SQL #DEND : I've been working on project one. End of the day... I finished the first part, just some troubles with the songplay_table. I will fix that tomorrow. Encouraging @BryantW @AntónioB @Jacinto @LauraT
+`Day 14` 2020/01/15 #30DaysOfUdacity #SQL #DEND : I've been working on project one. End of the day... I finished the first part, just some troubles with the songplay_table. I will fix that tomorrow. 
 
 `Day 15` 2020/01/16 #30DaysOfUdacity #SQL #DEND :I couldn't find the source of the problem this morning, so I decided to take a step back and read the self-help forum. There are a lot of things and help for my solution!! I'm very happy. Today I'm thinking about it and I'm moving forward especially on the Readme. I love the Readme. I play a lot with 'Git' and I usual I lose ^^ and I lean ^^. This time I have pushed and clear all my repo so, to go back to an event that's already pushed on GitHub: to see the number of the good push `git log --oneline --decorate --graph` then chose it (the good one, where you want to go), then`git reset --hard xxxxxxx` then `git clean -f -d` then `git fetch --all` then `git push -u origin +master` ta taaaaa!!! Well, the lesson of the day is to do a push every day (that I do) but also during the day or before playing with Git... 
 
-`Day 16` 2020/01/17 #30DaysOfUdacity #SQL #DEND : The day was well underway... and I came across the hash algorithm. So tomorrow will be Udacitu Day. 🚀💢 Encouraging @LauraT @Bianca DianaT @DanielJ @AntónioB @Jacinto @BryantW
+`Day 16` 2020/01/17 #30DaysOfUdacity #SQL #DEND : The day was well underway... and I came across the hash algorithm. So tomorrow will be Udacitu Day. 🚀💢 
 
-`Day 17` 2020/01/18 #30DaysOfUdacity #SQL #DEND : Still on project 1. I work with python. Tomorrow I hope to finish this project. Encouraging @Vamshi KrishnaP @AntónioB @InnaI
+`Day 17` 2020/01/18 #30DaysOfUdacity #SQL #DEND : Still on project 1. I work with python. Tomorrow I hope to finish this project. 
 
 `Day 18` 2020/01/19 #30DaysOfUdacity #SQL #DEND : I've made project 1!! I've done a lot of Python coding on this subject to find matching files! I'll do less Sql and more python next week.  Encouraging 🎉 @Vamshi KrishnaP @Bianca DianaT @AntónioB @Jacinto @BryantW @DanielJ @DavidA ...and, tomorow, that's the end of the subway strikes in Paris(France). I'm so happy!!!🙏🎉🎉
 
 `Day 19` 2020/01/20 #30DaysOfUdacity #SQL #DEND : I continued with Intro to Python, Lesson 7 about Numpy. I'm still working on my sql notes. 
 
-`Day 20` 2020/01/21 #30DaysOfUdacity #SQL #DEND : I finished the Python introduction, lesson 7 on Numpy, and did some exercises to practice. I really liked that lesson. Plenty of encouragement to @Bianca DianaT @LorenzoP @BryantW @Daniel @TarekA @AmyS @Vamshi KrishnaP
+`Day 20` 2020/01/21 #30DaysOfUdacity #SQL #DEND : I finished the Python introduction, lesson 7 on Numpy, and did some exercises to practice. I really liked that lesson. 
 
-`Day 21` 2020/01/22 #30DaysOfUdacity #SQL #DEND :I began NoSQL Data Models in Data Modeling, and I end the day by the first exercice. I read a lot documentation about Cassandra, NoSql database to understand ... Cassandra. Encouraging
+`Day 21` 2020/01/22 #30DaysOfUdacity #SQL #DEND :I began NoSQL Data Models in Data Modeling, and I end the day by the first exercice. I read a lot documentation about Cassandra, NoSql database to understand ... Cassandra. 
 
 `Day 22` 2020/01/23 #30DaysOfUdacity #SQL #DEND :I finished the chapter NoSql Data Model and started project 2 by preparing my working environment and my Readme. 
 
@@ -153,4 +152,6 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 `Day 27 2020/01/28` #30DaysOfUdacity #SQL #DEND : That's it, project 2, finish!!! and pass after one review. I learn a lot by this review 🚀🚀👍 So I begin Pandas to rest. I learn a word in english, a cute word. `nitpicky` I like the sound. So i spend my day to use it. I've been reading and listening English for a long time, but I rarely speak or write. Thank you everyone, it's very nice to read and write to you, I'm getting better. Thanks a lot. 
 
 `Day 28 2020/01/29` #30DaysOfUdacity #SQL #DEND : I finsished Python and SQL Aggregations today. I need to practice SQL with Hackerank. I'd like to finish SQL as soon as possible to keep moving forward on nanodegree datae eng.
+
+`Day 29 2020/01/30` #30DaysOfUdacity #SQL #DEND : I finished "Hackerrank 30 days challenge" in python, began exercices SQL with Hackerrank too, read somes notes about Binary tree, began and finished "Command Line Essentials" in extracurricular, began "git and github" 11%, make challenge Python with Leetcode and watch video about Dta warehouse lesson 1. 
 
