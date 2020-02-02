@@ -153,5 +153,8 @@ format : `Day nb` + `date ` + `#30DaysOfUdacity #DEND ` + `: `+ `action`, list
 
 `Day 28 2020/01/29` #30DaysOfUdacity #SQL #DEND : I finsished Python and SQL Aggregations today. I need to practice SQL with Hackerank. I'd like to finish SQL as soon as possible to keep moving forward on nanodegree datae eng.
 
-`Day 29 2020/01/30` #30DaysOfUdacity #SQL #DEND : I finished "Hackerrank 30 days challenge" in python, began exercices SQL with Hackerrank too, read somes notes about Binary tree, began and finished "Command Line Essentials" in extracurricular, began "git and github" 11%, make challenge Python with Leetcode and watch video about Dta warehouse lesson 1. 
+`Day 29 2020/01/30` #30DaysOfUdacity #SQL #DEND : I finished "Hackerrank 30 days challenge" in python, began exercices SQL with Hackerrank too, read somes notes about Binary tree, began and finished "Command Line Essentials" in extracurricular, began "git and github" 11%, make challenge Python with Leetcode and watch video about Data warehouse lesson 1. 
 
+`Day 29, 2020-01-30` Hi, bad mood and bad time with data warehousing 🥺 ☠️ Send good vibes ✨😂@LauraT @Jacinto @AntónioB and all (iPhone time too 😂)
+
+`Day 31` 2020/02/01 #30DaysOfUdacity #SQL #DEND : I had the wrong day yesterday, and skipped my 30th day with you. A missed act so I wouldn't leave you? I can't find a solution to my problem with postgres to work locally. So I asked several people for help. In the meantime I'm working on the worspace. It's going suddenly faster. I have some helps and Google. I uninstalled Postgres but Data and user are somewhere in my Linux but very, very well hidden. and I need to reset users and data to solve my problem. Tomorrow after the time's family, I'll get it. 
